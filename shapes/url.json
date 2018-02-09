@@ -1,0 +1,25 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "font-family": "Helsinki-webfont", 
+          "font-size": "1.4mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "1.4mm", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "style": "fill", 
+          "type": "text", 
+          "value": "boldport.com/cp3"
+        }
+      ]
+    }
+  }
+}

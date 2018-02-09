@@ -1,0 +1,68 @@
+{
+"pins":
+  {
+  "MH":
+    {	
+      "layout": 
+      {
+        "pad": "drill",
+        "location": [0, 0],
+        "show-label": false
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes": 
+      [     
+ 	{
+	  "type": "circle",
+	  "layers": ["top"],
+  	  "location": [0, 0],
+          "style": "stroke",
+          "stroke-width": 0.4,
+          "diameter": 6
+	}
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "circle",
+	  "layers": ["top", "bottom"],
+          "diameter": 5.5
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "drill":
+    {
+      "shapes": [
+        {
+          "type": "circle",
+	  "layers": ["top", "bottom"],
+          "diameter": 2,
+          "buffer-to-pour": 1.9,
+          "soldermask": [
+            {
+              "type": "circle",
+              "diameter": 4
+            }
+          ]
+        }
+      ],
+      "drills":
+      [
+        {
+          "diameter": 3.1
+        }
+      ]
+    }
+  }
+}

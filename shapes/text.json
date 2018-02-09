@@ -1,0 +1,25 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "font-family": "Helsinki-webfont", 
+          "font-size": "1.6mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "1.6mm", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "style": "fill", 
+          "type": "text", 
+          "value": "Cordwood puzzle three"
+        }
+      ]
+    }
+  }
+}

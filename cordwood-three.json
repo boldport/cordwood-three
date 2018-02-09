@@ -514,15 +514,6 @@
       ], 
       "show": true
     }, 
-    "SM": {
-      "footprint": "soldermask", 
-      "layer": "top", 
-      "location": [
-        -2.57, 
-        -0.47
-      ], 
-      "show": false
-    }, 
     "SS": {
       "footprint": "silkscreen", 
       "layer": "top", 
