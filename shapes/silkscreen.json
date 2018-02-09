@@ -6,7 +6,6 @@
       "shapes":
       [
         {
-	  "meta": "pad",
 	  "layers": ["top"], 
           "type": "path",
           "style": "fill",
