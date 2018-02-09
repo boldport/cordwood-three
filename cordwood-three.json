@@ -333,7 +333,7 @@
       "rotate": 0, 
       "style": "fill", 
       "type": "text", 
-      "value": "Board details:\nName: a second in a series of Cordwood Puzzles\nRevision: A\nDescription: A soldering kit and puzzle\nLicense: MIT\nCompany: Boldport Limited\nDesigner: Saar Drimer, saar@boldport.com"
+      "value": "Board details:\nName: a third in a series of Cordwood Puzzles\nRevision: A\nDescription: A soldering kit and puzzle\nLicense: MIT\nCompany: Boldport Limited\nDesigner: Saar Drimer, saar@boldport.com"
     }, 
     "manufacturing": {
       "font-family": "Overlock-Regular-OTF-webfont", 
