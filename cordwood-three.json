@@ -1,23 +1,5 @@
 {
   "components": {
-    "FET1": {
-      "footprint": "TO92-FET-ammo", 
-      "layer": "top", 
-      "location": [
-        0, 
-        2.241667
-      ], 
-      "rotate": 180, 
-      "show": false, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }, 
-        "shapes": {
-          "show": false
-        }
-      }
-    }, 
     "FET2": {
       "footprint": "TO92-FET-ammo", 
       "layer": "top", 
@@ -90,24 +72,6 @@
         }
       }
     }, 
-    "FET6": {
-      "footprint": "TO92-FET-ammo", 
-      "layer": "top", 
-      "location": [
-        0, 
-        -2.241667
-      ], 
-      "rotate": 0, 
-      "show": false, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }, 
-        "shapes": {
-          "show": false
-        }
-      }
-    }, 
     "J1": {
       "footprint": "1x6-2p54mm-header", 
       "layer": "top", 
@@ -156,7 +120,7 @@
       "silkscreen": {
         "refdef": {
           "show": false
-	}, 
+        }, 
         "shapes": {
           "show": true
         }
@@ -260,7 +224,7 @@
       "footprint": "resistor-combo", 
       "layer": "top", 
       "location": [
-        19.662153, 
+        19.725, 
         0
       ], 
       "rotate": 180, 
@@ -278,7 +242,7 @@
       "footprint": "resistor-combo", 
       "layer": "top", 
       "location": [
-        -19.662153, 
+        -19.725, 
         0
       ], 
       "show": true, 
@@ -327,8 +291,8 @@
       "letter-spacing": "0mm", 
       "line-height": "1.5mm", 
       "location": [
-        -65.26457, 
-        -47.090759
+        -16.058339, 
+        -15.355386
       ], 
       "rotate": 0, 
       "style": "fill", 
@@ -341,8 +305,8 @@
       "letter-spacing": "0mm", 
       "line-height": "1.5mm", 
       "location": [
-        -62.100508, 
-        -60.322758
+        -13.794783, 
+        -28.470198
       ], 
       "rotate": 0, 
       "style": "fill", 
@@ -355,8 +319,8 @@
       "letter-spacing": "0mm", 
       "line-height": "1.2mm", 
       "location": [
-        -65.910493, 
-        -71.096201
+        -17.604774, 
+        -39.595203
       ], 
       "rotate": 0, 
       "style": "fill", 
@@ -366,8 +330,8 @@
   }, 
   "drill-index": {
     "location": [
-      -78.031782, 
-      -35.768806
+      20.666637, 
+      -11.572496
     ]
   }, 
   "drills": {}, 
